@@ -7,3 +7,4 @@ Details regarding the number of recommended people for each street sidewalk may 
 Additional details regarding the safety (no of street lamps, higher rated restaurants can be used to quantify) may be added to the application later.
 
 For the moment, I have attempted to visualize the effective width(area/length) of different features, and attempted to cluster them into groups.
+This will enable the routing algorithm to choose from different clusters depending on the user settings and information.
